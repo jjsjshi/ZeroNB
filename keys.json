@@ -1,7 +1,7 @@
 {
-  "valid_keys": [
-    "ABC123",
-    "HELLO999",
-    "ZERO-CHEAT-YKBoguEcfo"
-  ]
+  "keys": {
+    "abc123": "2025/09/01",
+    "def456": "2025/09/10",
+    "ghi789": "never"
+  }
 }
