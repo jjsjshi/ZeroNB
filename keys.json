@@ -1,9 +1,11 @@
 {
-  "keys": {
-    "ZERO": {
-      "expiry": "2026/03/22 21:37",
-      "devices": [],
-      "limit": 1
+    "keys": {
+        "ZERO": {
+            "expiry": "2026\/03\/22 21:37",
+            "devices": [
+                "3c931896f28e8272"
+            ],
+            "limit": 1
+        }
     }
-  }
 }
