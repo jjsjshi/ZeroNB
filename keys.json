@@ -1,10 +1,5 @@
 {
   "keys": {
-    "ZERO": {
-      "expiry": "never",
-      "devices": [],
-      "limit": 1
-    },
     "ILOVEZHUXIAN": {
       "expiry": "2026/03/08 23:57",
       "devices": [],
