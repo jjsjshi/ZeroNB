@@ -1,3 +1,9 @@
 {
-  "keys": {}
+  "keys": {
+    "ZERO": {
+      "expiry": "never",
+      "devices": [],
+      "limit": 1
+    }
+  }
 }
