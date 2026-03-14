@@ -1,9 +1,11 @@
 {
-  "keys": {
-    "ZERO-30D-h5vplMQFec": {
-      "expiry": "2026/04/13 22:12",
-      "devices": [],
-      "limit": 99
+    "keys": {
+        "ZERO-30D-h5vplMQFec": {
+            "expiry": "2026\/04\/13 22:12",
+            "devices": [
+                "3c931896f28e8272"
+            ],
+            "limit": 99
+        }
     }
-  }
 }
